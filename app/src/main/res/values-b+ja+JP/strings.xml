@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">実用的な6</string>
+    <string name="flag">フラージ</string>
+    <string name="age">年齢</string>
+    <string name="gender">性別</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="smoker">喫煙者?</string>
+    <string name="premium">保険</string>
+    <string name="calculate">計算</string>
+    <string name="reset">リセット</string>
+    <string-array name="age_group">
+        <item>未満 5</item>
+        <item>5 に 10</item>
+        <item>11 に 16</item>
+        <item>17 に 20</item>
+        <item>21 に 30</item>
+        <item>31 に 40</item>
+        <item>41 に 50</item>
+        <item>より多い 50</item>
+    </string-array>
+</resources>
